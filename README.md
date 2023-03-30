@@ -115,5 +115,5 @@ This would be designed to use Lego’s mod, and therefore this feature would sim
 ## Items
 
 # Mod compatibilities
-This mod would be designed to have compatibility with Lego's Allomancy mod, my Cosmere API, as well as possibly other cosmere mods.
+This mod would theoretically be designed to have compatibility with Lego's Allomancy mod, my Cosmere API, as well as possibly other cosmere mods.
 

@@ -1,5 +1,5 @@
 # **NOTE: THIS MOD IS HEAVILY W.I.P AND MOST FEATURES WILL NOT BE ADDED UNTIL LATER**
-*also sorry about the messy layout*
+*also sorry about the messy layout*<br>
 *if any of this contradicts any other part please let me know as i'm not the best proof-reader and this was made over several months*
 
 
@@ -20,22 +20,23 @@
 - Has access to ender chest tab rather than saved hotbar tab (because I know how OP that would be in survival servers   - I want to at least SOMEWHAT balance it)
 
 ## Shardmist Avatar
-- can be seen by all gamemodes, and bronze allomancy (and other detection investiture) reveals a line the same colour that is connected to the shard
-- has same speech requirements as shard
-- looks like a misty outline of a player
-- has survival mode movement and cannot equip armour, but can still hold items
-- cannot take damage or be targeted by mobs
-- does not have creative mode item spawn but can still access ender chest
+- Can be seen by all gamemodes, and bronze allomancy (and other detection investiture) reveals a line the same colour that is connected to the shard
+- Has same speech requirements as shard
+- Looks like a misty outline of a player
+- Has survival mode movement and cannot equip armour, but can still hold items
+- Cannot take damage or be targeted by mobs
+- Does not have creative mode item spawn but can still access ender chest
 - Shardmist avatars have no nametag or skin, but have a mist texture that is coloured based on the shard.
 
 ## Avatar
-- can be seen by all gamemodes, looks like a normal survival mode player
-- has infinite allomantic reserves, however they refill over time rather than instantly refilling like the shard and shardmist avatar. (this is for preservation, other shards would get different powers)
-- does not have creative mode items spawn and needs an ender chest in order to access their ender chest inventory
-- can speak like a normal survival mode player, as well as speaking in shard chat
-- burning bronze as a shard, shardmist avatar or avatar also shows a coloured line with the colour based on the colour of the shard, meaning that shards can see who is an avatar
-   - Needs a compatible allomancy mod to do so (see compatibilities)
-- sees shards, but more transparently than if in shard or shardmist form
+- Can be seen by all gamemodes, looks like a normal survival mode player
+- Has infinite allomantic reserves, however they refill over time rather than instantly refilling like the shard and shardmist avatar. (this ability is for preservation specifically as an example, other shards would get different powers)
+- Does not have creative mode items spawn and needs an ender chest in order to access their ender chest inventory
+- Can speak like a normal survival mode player, as well as speaking in shard chat
+- Burning bronze as a shard, shardmist avatar or avatar also shows a coloured line with the colour based on the colour of the shard, meaning that shards can see who is an avatar
+   - Needs a compatible allomancy mod to do so (see compatibilities once complete)
+   - Other shards would be able to use detection magic systems that utilise their investiture
+- Sees shards, but more transparently than if in shard or shardmist form
 
 # Mechanics
 ## Blocking
@@ -49,7 +50,7 @@ Avatars work similarly to survival mode players, with a few buffs tailored to ea
 Mist Avatars, on the other hand, are extremely limited. They cannot be harmed, can only harm if not being Blocked, and cannot destroy or place blocks without a charge of investiture. (see later section) The benefit of a Mist Avatar, as opposed to a Normal Avatar, is that you can turn back at any time no matter whether you are being blocked or not.
 
 ## Intent Orientation
-A player’s actions will over time orient them to intents. These Intents do not cancel each other out directly, however doing something that would gain Preservation will most likely lose Ruin and vice versa as they are more or less opposites. The stronger an Intent is, the closer your connection to the Shard associated with it, to the point where if the Shard has no vessel you can pick it up. This connection can also have benefits if you are friends with the shard, as they can interact more with you.
+A player’s actions will over time orient them to intents. These Intents do not cancel each other out directly in most circumstances, however doing something that would gain Preservation will most likely lose Ruin and vice versa as they are more or less opposites. The stronger an Intent is, the closer your connection to the Shard associated with it, to the point where if the Shard has no vessel you can pick it up. This connection can also have benefits if you are friends with the shard, as they can interact more with you.
 Each intent also has an associated colour, however the bearer of the shard can change this with enough investiture.
 If you pick up multiple shards then the colour is an average between them.
 Intents:
@@ -81,9 +82,9 @@ Intents:
    - Default colour #??????
 - Whimsy
    - Default colour #??????
-- ???????
+- Virtuosity
    - Default colour #??????
-- ???????
+- Survival (placeholder name, will be changed once we know what the shard's name actually is)
    - Default colour #??????
 
 

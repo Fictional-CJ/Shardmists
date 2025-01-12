@@ -1,10 +1,11 @@
 # **NOTE: THIS MOD IS HEAVILY W.I.P AND MOST FEATURES WILL NOT BE ADDED UNTIL LATER**
 *also sorry about the messy layout*<br>
-*if any of this contradicts any other part please let me know as i'm not the best proof-reader and this was made over several months*
+*if any of this contradicts any other part please let me know as i'm not the best proof-reader and this was made over several months*<br>
+_**THIS HAS NO ETA.** I will make it at some point, whether soon or whether in years, but since it's one of my first mods I have to learn how to mod first._
 
 
 # Shardmists Mod
-
+**This will contain spoilers for the Cosmere, updated as soon as I find out any new information. You have been warned.**<br>
 
 # Gamemodes
 ## Shard
@@ -63,7 +64,7 @@ Intents:
 - Ruin
    - Default colour #000000
 - Odium
-   - Default colour #ffcc00
+   - Default colour #330033
 - Cultivation
    - Default colour #00ff00
 - Honor (unfortunately not Honour as it’s a name)
@@ -71,7 +72,7 @@ Intents:
 - Endowment
    - Default colour #005500
 - Autonomy
-   - Default colour #??????
+   - Default colour #ffcc00
 - Ambition
    - Default colour #cc00cc
 - Invention
@@ -84,7 +85,7 @@ Intents:
    - Default colour #??????
 - Virtuosity
    - Default colour #??????
-- Survival (placeholder name, will be changed once we know what the shard's name actually is)
+- Reason
    - Default colour #??????
 
 

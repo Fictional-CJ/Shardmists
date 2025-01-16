@@ -14,11 +14,11 @@ _**THIS HAS NO ETA.** I will make it at some point, whether soon or whether in y
 - Has spectator mode movement, as well as most things being unable to affect them
 - Has “Shard only” chat
 - Only one player can be a certain Shard at any time by default, although one person can have multiple Shards - see [Intent](#Intent)
-   - Can be changed in config or using operator commands
+    - Can be changed in config or using operator commands
 - Can give up power, returning to survival mode, and the power can be absorbed by someone else
 - Can spectate someone else and whisper to them even if being blocked, however being blocked will make some text obfuscated
 - Can store up investiture to create survival-friendly blocks in a creative-like menu
-- Has access to ender chest tab rather than saved hotbar tab (because I know how OP that would be in survival servers   - I want to at least SOMEWHAT balance it)
+- Has access to ender chest tab rather than saved hotbar tab (because I know how OP that would be in survival servers    - I want to at least SOMEWHAT balance it)
 
 ## Shardmist Avatar
 - Can be seen by all gamemodes, and bronze allomancy (and other detection investiture) reveals a line the same colour that is connected to the Shard
@@ -35,8 +35,8 @@ _**THIS HAS NO ETA.** I will make it at some point, whether soon or whether in y
 - Does not have creative mode items spawn and needs an ender chest in order to access their ender chest inventory
 - Can speak like a normal survival mode player, as well as speaking in Shard chat
 - Burning bronze as a Shard, Shardmist avatar or avatar also shows a coloured line with the colour based on the colour of the Shard, meaning that Shards can see who is an avatar
-   - Needs a compatible allomancy mod to do so (see compatibilities once complete)
-   - Other Shards would be able to use detection magic systems that utilise their investiture
+    - Needs a compatible allomancy mod to do so (see compatibilities once complete)
+    - Other Shards would be able to use detection magic systems that utilise their investiture
 - Sees Shards, but more transparently than if in Shard or Shardmist form
 
 # Mechanics
@@ -71,52 +71,52 @@ If you have any suggestions for a Shard's colour let me know.
 
 Intents:
 - Devotion
-   - Default colour #ffffff
+    - Default colour #ffffff
 <br>
 - Dominion
-   - Default colour #000000
+    - Default colour #000000
 <br>
 - Preservation
-   - Default colour #ffffff
+    - Default colour #ffffff
 <br>
 - Ruin
-   - Default colour #000000
+    - Default colour #000000
 <br>
 - Odium
-   - Default colour #330033
+    - Default colour #330033
 <br>
 - Cultivation
-   - Default colour #00ff00
+    - Default colour #00ff00
 <br>
 - Honor <sup>(unfortunately not Honour as it's a name)</sup>
-   - Default colour #00ffff
+    - Default colour #00ffff
 <br>
 - Endowment
-   - Default colour #005500
+    - Default colour #005500
 <br>
 - Autonomy
-   - Default colour #ffcc00
+    - Default colour #ffcc00
 <br>
 - Ambition
-   - Default colour #cc00cc
+    - Default colour #cc00cc
 <br>
 - Invention
-   - Default colour #??????
+    - Default colour #??????
 <br>
 - Mercy
-   - Default colour #??????
+    - Default colour #??????
 <br>
 - Valor
-   - Default colour #??????
+    - Default colour #??????
 <br>
 - Whimsy
-   - Default colour #??????
+    - Default colour #??????
 <br>
 - Virtuosity
-   - Default colour #??????
+    - Default colour #ffff00 //i think it would be funny just to complete the printer colours
 <br>
 - Reason
-   - Default colour #??????
+    - Default colour #??????
 
 
 
@@ -149,13 +149,13 @@ Every instance of intent will be a string of 16 hexadecimal digits, with each di
 ## Commands
 ~~- /mist [spawn/despawn] [Shard] {spawns or despawns mists that cover the land at night}~~ //might have to rework this idea
 - /Shard [add/grant/revoke/kick/intent]
-   - \<add/kick> \<player> [intent] [intentValue] {forces the player to have or not have Shard powers}
-   - \<grant/revoke> {allows or stops allowing a player to absorb a Shard power (if the Shard power is free)}
-   - \<intent> [add/remove/get/set] {sets the Intent Orientation of a player}
-     - [add] [player] [intent] [integer] {adds a set amount to the player's intent}
-     - [remove] [player] [intent] [integer] {removes a set amount to the player's intent}
-     - [get] [player] [intent] {gets the player's level of intent orientation for the specified intent}
-     - [set] [player] [intent] [integer] {forces the player's intent orientation to a specific number}
+    - \<add/kick> \<player> [intent] [intentValue] {forces the player to have or not have Shard powers}
+    - \<grant/revoke> {allows or stops allowing a player to absorb a Shard power (if the Shard power is free)}
+    - \<intent> [add/remove/get/set] {sets the Intent Orientation of a player}
+        - [add] [player] [intent] [integer] {adds a set amount to the player's intent}
+        - [remove] [player] [intent] [integer] {removes a set amount to the player's intent}
+        - [get] [player] [intent] {gets the player's level of intent orientation for the specified intent}
+        - [set] [player] [intent] [integer] {forces the player's intent orientation to a specific number}
 - /Shardpower [spawn/despawn] [intent] {spawns a concentrated bit of power that can be absorbed by someone who is able to use that Shard power}
 
 ## Items
